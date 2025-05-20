@@ -1,19 +1,18 @@
 # ntt-data-repositorio
 
-Requisitos:
+## Requisitos
 
-Java 17;
-Arquitetura microsserviços;
-Autenticação JWT
-Kubernetes;
-Quarkus;
-Json
-API Rest;
-API Gateway;
-Mensageira Kafka;
-Jenkins (plataforma CI/CD);
-Banco NoSQL Mongo;
+- Java 17  
+- Arquitetura de Microsserviços  
+- Autenticação JWT  
+- Kubernetes  
+- Quarkus  
+- JSON  
+- API REST  
+- API Gateway  
+- Mensageria Kafka  
+- Jenkins (plataforma CI/CD)  
+- Banco NoSQL MongoDB  
+- Conceitos de Nuvem Azure  
 
-Conceitos de nuvem Azure.
-
-Obs: Conhecer front é um diferencial (Angular 17).****
+> **Observação:** Conhecimento em Front-end é um diferencial — especialmente em **Angular 17**.
